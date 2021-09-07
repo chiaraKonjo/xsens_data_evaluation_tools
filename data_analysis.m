@@ -1,7 +1,7 @@
 %% Initializations 
 %data_analysis all: per calcolare le mediane 
 
-ROM_shoulder_a_hand = [];
+ROM_shoulder_a_hand = []; %i want to change something 
 ROM_shoulder_rot_hand = [];
 ROM_shoulder_f_hand = [];
 ROM_elbow_a_hand = [];
